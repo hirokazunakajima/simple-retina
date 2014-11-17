@@ -3,8 +3,8 @@
 
 _Break down [Retina.js](http://imulus.github.io/retinajs/) and extract functionality for small specific syntax project_
 ### How to use?
-1. prepare 2 images named "_image.jpg_" and "_image@2px.jpg_"  
-	"__@2px__" have to be added between filename( image ) and extension( .jpg ) 
+1. prepare 2 images named "_image.jpg_" and "_image@2x.jpg_"  
+	"__@2x__" have to be added between filename( image ) and extension( .jpg ) 
 2. put them on the same level (the same folder)
 3. put this library right before closing `</body>` tag
 4. your images will be swapped automatically
